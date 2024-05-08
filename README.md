@@ -51,13 +51,16 @@ while True:
 ## OUTPUT
 ## PING COMMAND:
 ## CLIENT:
-![image](https://github.com/23002027/4.Execution_of_NetworkCommends/assets/139752981/77643755-1234-447a-bd60-1e62d05ce6d3)
+![image](https://github.com/sriramsurya11/4.Execution_of_NetworkCommends/assets/151637759/afcbdbb0-68be-4137-865d-d61714f9e092)
 
 ## SERVER:
-![image](https://github.com/23002027/4.Execution_of_NetworkCommends/assets/139752981/497c329a-2f74-40ec-a51d-6eeb2646ff49)
+![image](https://github.com/sriramsurya11/4.Execution_of_NetworkCommends/assets/151637759/539a275a-c6b3-449c-a123-bf517e0b871c)
+
+
 
 ## TRACERT COMMAND:
-![image](https://github.com/23002027/4.Execution_of_NetworkCommends/assets/139752981/7e5ba468-7a22-4bdb-975d-c3ba4a2aef72)
+![image](https://github.com/sriramsurya11/4.Execution_of_NetworkCommends/assets/151637759/159b91c1-6161-43db-8227-e6baa42be99a)
+
 
 ## Result
 Thus Execution of Network commands Performed.
